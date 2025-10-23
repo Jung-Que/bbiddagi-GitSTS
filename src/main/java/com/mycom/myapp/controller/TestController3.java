@@ -6,6 +6,12 @@ public class TestController3 {
     public void m(){
     	
     	System.out.println("TESTCONTORLLER2 - BEFORE()");
+    	System.out.println("TESTCONTORLLER2 - BEFORE()");
+    	System.out.println("TESTCONTORLLER2 - m()");
+    	System.out.println("TESTCONTORLLER2 - m()");
+    	System.out.println("TESTCONTORLLER2 - BEFORE()");
+    	System.out.println("TESTCONTORLLER2 - m()");
+    	System.out.println("TESTCONTORLLER2 - m()");
     	System.out.println("TESTCONTORLLER2 - m()");
     	System.out.println("TESTCONTORLLER2 - m()");
    
